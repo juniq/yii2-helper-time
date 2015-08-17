@@ -13,7 +13,7 @@ The easiest way is to use composer. If you don't have composer get it here:
 Now you can run the following commands in your root project directory:
 
 ```
-composer config repositories.juniq vcs https://github.com/JUNIQ/yii2-helper-time.git
+composer config repositories.juniq vcs https://github.com/juniq/yii2-helper-time.git
 ```
 
 ```
@@ -24,7 +24,7 @@ composer require "juniq/yii2-helper-time" "*"
 
 Download the latest version here:
 
-[https://github.com/Jusophos/yii2-helper-time/](https://github.com/Jusophos/yii2-helper-time/)
+[https://github.com/juniq/yii2-helper-time/](https://github.com/juniq/yii2-helper-time/)
 
 ## How to use it
 

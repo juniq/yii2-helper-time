@@ -2,7 +2,7 @@
     "name": "juniq/yii2-helper-time",
     "description": "A useful helper function for time calculations - aspecially for durations - for Yii Framework 2",
     "keywords": ["yii", "yii2", "extension", "helper", "bootstrap", "utilities", "duration", "time"],
-    "homepage": "https://github.com/jusophos/yii2-helper-time",
+    "homepage": "https://github.com/juniq/yii2-helper-time",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
