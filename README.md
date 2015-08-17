@@ -1,16 +1,16 @@
 # yii2-helper-time
 
 ## Description
-A useful helper function for time calculations - aspecially for durations - for Yii Framework 2. You can use the function `Timer::formatDuration` to convert seconds into human readable duration strings like: 5 days 8 hours 19 minutes 11 seconds
+A useful helper function for time calculations - aspecially for durations - for Yii Framework 2. You can use the function `Time::formatDuration` to convert seconds into human readable duration strings like: 5 days 8 hours 19 minutes 11 seconds
 
 ## How to install
 
 ### Composer
-The easiest way is to use composer. If you don't have composer get it here:
+The easiest way to install this package is to use composer. If you don't have composer get it here:
 
 [https://getcomposer.org/download/](https://getcomposer.org/download/)
 
-Now you can run the following commands in your root project directory:
+Now you can run the following commands in your *root project directory*:
 
 ```
 composer require "juniq/yii2-helper-time" "*"
@@ -33,7 +33,7 @@ Download the latest version here:
 To convert seconds into human readable duration strings, you can use the following function:
 
 ```
-Timer::formatDuration($time, $length = 'short', $custom_units = false, $separator = ', ')
+Time::formatDuration($time, $length = 'short', $custom_units = false, $separator = ', ')
 ```
 
 Parameter      | Type           | Required? | Description                                  |
