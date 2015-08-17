@@ -10,9 +10,15 @@ The easiest way is to use composer. If you don't have composer get it here:
 
 [https://getcomposer.org/download/](https://getcomposer.org/download/)
 
-Now you can run the following command in your root project directory:
+Now you can run the following commands in your root project directory:
 
-`composer require "" "*"`
+```
+composer config repositories.juniq vcs https://github.com/Jusophos/yii2-helper-time/
+```
+
+```
+composer require "juniq/yii2-helper-time" "*"
+```
 
 ### Manually download
 
