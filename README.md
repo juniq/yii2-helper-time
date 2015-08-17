@@ -13,11 +13,13 @@ The easiest way is to use composer. If you don't have composer get it here:
 Now you can run the following commands in your root project directory:
 
 ```
-composer config repositories.juniq vcs https://github.com/juniq/yii2-helper-time
+composer require "juniq/yii2-helper-time" "*"
 ```
 
+or (depending on your installation type)
+
 ```
-composer require "juniq/yii2-helper-time" "*"
+php composer.phar require "juniq/yii2-helper-time" "*"
 ```
 
 ### Manually download
