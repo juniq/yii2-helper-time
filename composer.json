@@ -4,6 +4,7 @@
     "keywords": ["yii", "yii2", "extension", "helper", "bootstrap", "utilities", "duration", "time"],
     "homepage": "https://github.com/juniq/yii2-helper-time",
     "type": "yii2-extension",
+    "version": "1.0",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -19,7 +20,7 @@
     "autoload": {
         "psr-4": {
 
-            "juniq\\helper\\": ""
+            "juniq\\helpers\\Time": ""
         }
     }
 }
