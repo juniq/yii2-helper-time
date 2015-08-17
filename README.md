@@ -44,7 +44,7 @@ $separator     | String         | optional  | The separator sign between time un
 ## Examples
 
 ~~~
-use juniq\helpers\Time;
+use juniq\helper\Time;
 
 $time_in_seconds = 5781; // 1 hour 36 minutes, 21 seconds
 
