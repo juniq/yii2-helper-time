@@ -1,7 +1,7 @@
 # yii2-helper-time
 
 ## Description
-A useful helper function for time calculations - aspecially for durations - for Yii Framework 2. You can use the function `Time::formatDuration` to convert seconds into human readable duration strings like: 5 days 8 hours 19 minutes 11 seconds
+A useful helper function for time calculations - especially for durations - for Yii Framework 2. You can use the function `Time::formatDuration` to convert seconds into human readable duration strings like: 5 days 8 hours 19 minutes 11 seconds
 
 ## How to install
 
