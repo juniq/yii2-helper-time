@@ -15,7 +15,8 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "yiisoft/yii2-bootstrap": "*"
+
+        
     },
     "autoload": {
         "psr-4": {
